@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Raj</h1>
-<h3 align="center">A passionate Web Development and Data Science from India</h3>
+ <!-- ## Hey Everyone, I'm Utkarsh Raj <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=16utkarsh-raj&label=Profile%20views&color=0e75b6&style=flat" alt="16utkarsh-raj" /> </p>
+<p align="center">
+ <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=0e75b6&lines=Hey+👋+Everyone!;My+self+Utkarsh+Raj;Welcome+to+my+GitHub;I'm+a+web+developer;I'm+a+Intermediate+programmer">
+  </a>
+</p>
+
+---
+<img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=black&theme=synthwave&qColor=orange&aColor=white" alt="Jokes Card" />
 
 - 🔭 I’m currently working on **Enhancing my Skills**
 
